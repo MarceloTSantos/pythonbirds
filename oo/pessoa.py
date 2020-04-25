@@ -3,10 +3,5 @@ class Pessoa:
 
 
 
-"""""
-
-teste de subida do git
-
-""""""
 
 
